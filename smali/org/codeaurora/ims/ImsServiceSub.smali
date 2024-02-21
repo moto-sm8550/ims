@@ -609,7 +609,7 @@
 .end method
 
 .method public constructor <init>(Landroid/content/Context;ILorg/codeaurora/ims/ImsSenderRxr;Lorg/codeaurora/ims/ImsSubController;)V
-    .locals 5
+    .locals 6
 
     .line 282
     invoke-direct {p0}, Landroid/telephony/ims/feature/MmTelFeature;-><init>()V
